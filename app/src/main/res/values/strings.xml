@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InverseBindingSample</string>
+    <string name="message">Your choice is %1$d</string>
+</resources>
